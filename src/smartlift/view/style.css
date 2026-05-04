@@ -1,0 +1,12 @@
+/* style.css */
+.root {
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.text-area {
+    -fx-font-family: "Consolas", monospace;
+}
+
+.button:hover {
+    -fx-cursor: hand;
+}
